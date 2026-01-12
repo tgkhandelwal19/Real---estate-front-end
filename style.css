@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    width: 200px;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
